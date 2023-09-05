@@ -1,0 +1,4 @@
+cadquery
+numpy
+scipy
+solidpython
